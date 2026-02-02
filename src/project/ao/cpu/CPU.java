@@ -1,7 +1,5 @@
 package project.ao.cpu;
 
-;
-
  class Cpu {
 
     private Register reg;
